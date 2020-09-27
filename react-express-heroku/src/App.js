@@ -7,9 +7,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -17,7 +14,13 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-        </a>
+        </a><br />
+       Anand:  <a
+          className="App-link"
+          href="https://kalisuttu.wordpress.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >https://kalisuttu.wordpress.com</a>
       </header>
     </div>
   );
